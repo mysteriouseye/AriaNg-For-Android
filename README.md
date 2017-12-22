@@ -1,6 +1,6 @@
 # Terminal-AriaNg-For-Android
 一个用shell写的简单的AriaNg终端控制程序，在Neoterm或者其他的终端模拟器上运行。
- 
+
 分为两个版本，其中Neoterm版本只能在Neoterm里面才能安装使用，可以不需要root(没有root导致无法按照系统进程运行，无法访问外置sdcard)。安卓独立版本安装后则任何终端模拟器都可以用。
 
 A simple AriaNg controler created with shell,running on Terminal emulater for Android.
