@@ -5,6 +5,5 @@
 
 A simple AriaNg controler created with shell,running on Terminal emulater for Android.
 
- 
 It has two of its version.The one was called "For_Neoterm",which means it can only be installed or run in Neoterm.It doesn't require user to be root(running without being root would cause many problem such as once you terminated Neoterm,aria2c died with Neoterm.And you will not be able to download files into microSD card.).
 Another one was called "For_Android",which means should be installed into Android system.It requires root and Unlock BootLoader.
