@@ -1,7 +1,13 @@
-Install this by using command folowing.or install it manually
+Install this by using command folowing.or install it manually.
+
+Attention: get root access before runing command.
+
+
+用下面的代码安装，或者手动安装。
+
+注意:执行前必须获取root权限。
 
 ```shell
-su
 cd data
 mkdir Project
 chmod -R 755 Project
@@ -25,3 +31,17 @@ sleep 2
 aria2
 
 ```
+
+
+手动安装方法:(Manual Installation)
+1: 下载Aria2.zip  链接:https://raw.githubusercontent.com/Saint-Theana/AriaNg-For-Android/master/For-Android/Aria2.zip
+
+2:解压后把Aria2文件夹放到/data/Project下面，没有该目录就自己新建一个。
+
+3:修改整个目录的权限为755.
+
+
+
+
+
+
