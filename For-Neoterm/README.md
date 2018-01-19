@@ -1,6 +1,10 @@
 只能在Neoterm上使用!!
 This Project Can Only Be Used On Neoter!!
 
+下载Neoterm;https://www.coolapk.com/apk/io.neoterm
+Download Neoterm:https://www.coolapk.com/apk/io.neoterm
+
+
 使用以下命令来下载安装:
 
 Use folowing command to download and install it:
